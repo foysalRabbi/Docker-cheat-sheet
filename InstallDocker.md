@@ -23,8 +23,8 @@
 - docker inspect nginx:alpine (for showing details)
 - docker run nginx:alpine 
 
-**Note:** docker ps > docker ps -a > docker pull > docker rmi > docker inspect
+  **Note:** docker ps > docker ps -a > docker pull > docker rmi > docker inspect
 
 - docker run -d(run detus mode) -it(interactive mode)
 - or docker run -dit nginx:alpine
-- dcoker start 
+- docker start 
